@@ -1,0 +1,37 @@
+# Core ML
+torch==2.4.0
+torchvision==0.19.0
+transformers==4.44.0
+timm==1.0.9
+
+# Data
+pandas==2.2.2
+numpy==1.26.4
+Pillow==10.4.0
+datasets==2.21.0
+requests==2.32.3
+
+# Training utilities
+accelerate==0.33.0
+peft==0.12.0
+wandb==0.17.8
+scikit-learn==1.5.1
+
+# Explainability
+captum==0.7.0
+matplotlib==3.9.2
+seaborn==0.13.2
+opencv-python==4.10.0.84
+grad-cam==1.5.2
+
+# Augmentation / NLP
+nlpaug==1.1.11
+sacremoses==0.1.1
+
+# Monitoring
+codecarbon==2.7.1
+
+# Utilities
+tqdm==4.66.5
+PyYAML==6.0.2
+rich==13.8.0
