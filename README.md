@@ -90,11 +90,3 @@ All experiments tracked with Weights & Biases
 requirements.txt pins all versions
 Trained model weights released on HuggingFace Hub
 
-
-Citation
-bibtex@misc{bhardwaj2026crossattention,
-  title={Cross-Attention Based Multimodal Fusion for Fake News Detection},
-  author={Bhardwaj, Mayank and Bhardwaj, Deepika},
-  year={2026},
-  institution={Gurugram University}
-}
